@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails projects: test" uuid="61fc8f8b-a0aa-42f0-91e3-8152038395ab" />
+    <data-source name="Rails projects: development" uuid="7b283cfe-9692-4854-8bb7-b8bb28992864">
+      <introspection-scope>projects_development:pg_catalog,public</introspection-scope>
+      <resolve-scope>projects_development:public</resolve-scope>
+    </data-source>
+    <data-source name="Rails projects: production" uuid="f21ffb6a-53b1-438e-8869-1c50e5e27af2">
+      <user-name>projects</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddffadff8dfe5dfe0dfefdfe9dffedff9dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+  </component>
+</project>
